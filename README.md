@@ -1,3 +1,5 @@
 # IE-E-C-council-task-1
 
-my first github project
+My first github project
+
+<img src="https://github.com/YasrajDhal/IE-E-C-council-task-1/blob/main/show.jpeg">
